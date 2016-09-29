@@ -10,11 +10,17 @@ public class BB8Manager : Singleton<BB8Manager>
     bool dropped = false;
     Vector3 _OriginalPosition;
     Quaternion _OriginalRotation;
+    bool intervalWalkComplete;
+
+    #region The Action
 
     public void DoAction(string action)
     {
         string animation = "";
-        AudioClip audioClip = null;
+
+        #region Audio
+        //AudioClip audioClip = null;
+        #endregion
 
         switch (action)
         {
@@ -23,13 +29,17 @@ public class BB8Manager : Singleton<BB8Manager>
             case "Walk":
                 {
                     animation = "BB8Walk";
-                    audioClip = walkClip;
+                    #region Audio
+                    //audioClip = walkClip;
+                    #endregion
                     break;
                 }
             case "Talk":
                 {
                     animation = "BB8Talk";
-                    audioClip = talkClip;
+                    #region Audio
+                    //audioClip = talkClip;
+                    #endregion
                     break;
                 }
         }
@@ -37,9 +47,13 @@ public class BB8Manager : Singleton<BB8Manager>
         var animator = gameObject.GetComponent<Animator>();
 
         animator.Play(animation);
-        source.clip = audioClip;
+        #region Audio
+        //source.clip = audioClip;
+        #endregion
         source.Play();
     }
+
+    #endregion
 
     // Use this for initialization
     void Start()
@@ -51,28 +65,31 @@ public class BB8Manager : Singleton<BB8Manager>
     // Update is called once per frame
     void Update()
     {
-
-    }
-    void OnSelect()
-    {
-        if (dropped)
+        #region timer
+#if false
+#endif 
+        if(Time.time > 3 && intervalWalkComplete == false)
         {
             DoAction("Walk");
+            intervalWalkComplete = true;
         }
-        else
-        {
-            var rigidBody = gameObject.GetComponent<Rigidbody>();
-            rigidBody.collisionDetectionMode = CollisionDetectionMode.Continuous;
-            rigidBody.useGravity = true;
-            dropped = true;
-        }
+#endregion
+    }
 
-    }
-    void OnCollisionEnter(Collision collision)
-    {
-        var rigidBody = gameObject.GetComponent<Rigidbody>();
-        rigidBody.collisionDetectionMode = CollisionDetectionMode.Discrete;
-        rigidBody.useGravity = true;
-        gameObject.transform.localRotation.Set(_OriginalRotation.x, _OriginalRotation.y, _OriginalRotation.z, _OriginalRotation.w);
-    }
+    #region Select
+
+    //void OnSelect()
+    //{
+    //    DoAction("Walk");
+    //}
+
+    #endregion
+
+    #region Reset
+    //public void Reset()
+    //{
+    //    gameObject.transform.localPosition = _OriginalPosition;
+    //    gameObject.transform.localRotation = _OriginalRotation;
+    //}
+    #endregion
 }
