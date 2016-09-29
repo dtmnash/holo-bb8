@@ -350,7 +350,7 @@ PlayerSettings:
   metroCertificatePassword: 
   metroCertificateSubject: DefaultCompany
   metroCertificateIssuer: DefaultCompany
-  metroCertificateNotAfter: 80c5c47f0839d301
+  metroCertificateNotAfter: 806c11861d39d301
   metroApplicationDescription: HoloBB8
   wsaImages: {}
   metroTileShortName: 

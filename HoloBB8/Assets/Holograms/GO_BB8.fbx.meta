@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 5f0174f791f4ad54cb533e32f1f63a93
-timeCreated: 1475127991
+timeCreated: 1475120962
 licenseType: Free
 ModelImporter:
   serializedVersion: 19
@@ -15,46 +15,46 @@ ModelImporter:
     100014: bb8Head
     100016: BB8HeadGroup
     100018: bb_BodyGeometry
-    100020: EyeMapGroup
-    100022: //RootNode
-    100024: GO_SolarSystemMap
-    100026: pSphere1
-    100028: pSphere10
-    100030: pSphere11
-    100032: pSphere12
-    100034: pSphere13
-    100036: pSphere14
-    100038: pSphere15
-    100040: pSphere16
-    100042: pSphere17
-    100044: pSphere18
-    100046: pSphere19
-    100048: pSphere2
-    100050: pSphere20
-    100052: pSphere21
-    100054: pSphere22
-    100056: pSphere23
-    100058: pSphere24
-    100060: pSphere25
-    100062: pSphere26
-    100064: pSphere27
-    100066: pSphere28
-    100068: pSphere29
-    100070: pSphere3
-    100072: pSphere30
-    100074: pSphere4
-    100076: pSphere5
-    100078: pSphere6
-    100080: pSphere7
-    100082: pSphere8
-    100084: pSphere9
-    100086: pTorus1
-    100088: pTorus2
-    100090: pTorus3
-    100092: pTorus4
-    100094: RollX
-    100096: RollY
-    100098: rollZ
+    100020: //RootNode
+    100022: RollX
+    100024: RollY
+    100026: rollZ
+    100028: EyeMapGroup
+    100030: GO_SolarSystemMap
+    100032: pSphere1
+    100034: pSphere10
+    100036: pSphere11
+    100038: pSphere12
+    100040: pSphere13
+    100042: pSphere14
+    100044: pSphere15
+    100046: pSphere16
+    100048: pSphere17
+    100050: pSphere18
+    100052: pSphere19
+    100054: pSphere2
+    100056: pSphere20
+    100058: pSphere21
+    100060: pSphere22
+    100062: pSphere23
+    100064: pSphere24
+    100066: pSphere25
+    100068: pSphere26
+    100070: pSphere27
+    100072: pSphere28
+    100074: pSphere29
+    100076: pSphere3
+    100078: pSphere30
+    100080: pSphere4
+    100082: pSphere5
+    100084: pSphere6
+    100086: pSphere7
+    100088: pSphere8
+    100090: pSphere9
+    100092: pTorus1
+    100094: pTorus2
+    100096: pTorus3
+    100098: pTorus4
     100100: SolarSystemMap
     400000: BB8AntenaBig
     400002: bb8AntenaeSmall
@@ -66,46 +66,46 @@ ModelImporter:
     400014: bb8Head
     400016: BB8HeadGroup
     400018: bb_BodyGeometry
-    400020: EyeMapGroup
-    400022: //RootNode
-    400024: GO_SolarSystemMap
-    400026: pSphere1
-    400028: pSphere10
-    400030: pSphere11
-    400032: pSphere12
-    400034: pSphere13
-    400036: pSphere14
-    400038: pSphere15
-    400040: pSphere16
-    400042: pSphere17
-    400044: pSphere18
-    400046: pSphere19
-    400048: pSphere2
-    400050: pSphere20
-    400052: pSphere21
-    400054: pSphere22
-    400056: pSphere23
-    400058: pSphere24
-    400060: pSphere25
-    400062: pSphere26
-    400064: pSphere27
-    400066: pSphere28
-    400068: pSphere29
-    400070: pSphere3
-    400072: pSphere30
-    400074: pSphere4
-    400076: pSphere5
-    400078: pSphere6
-    400080: pSphere7
-    400082: pSphere8
-    400084: pSphere9
-    400086: pTorus1
-    400088: pTorus2
-    400090: pTorus3
-    400092: pTorus4
-    400094: RollX
-    400096: RollY
-    400098: rollZ
+    400020: //RootNode
+    400022: RollX
+    400024: RollY
+    400026: rollZ
+    400028: EyeMapGroup
+    400030: GO_SolarSystemMap
+    400032: pSphere1
+    400034: pSphere10
+    400036: pSphere11
+    400038: pSphere12
+    400040: pSphere13
+    400042: pSphere14
+    400044: pSphere15
+    400046: pSphere16
+    400048: pSphere17
+    400050: pSphere18
+    400052: pSphere19
+    400054: pSphere2
+    400056: pSphere20
+    400058: pSphere21
+    400060: pSphere22
+    400062: pSphere23
+    400064: pSphere24
+    400066: pSphere25
+    400068: pSphere26
+    400070: pSphere27
+    400072: pSphere28
+    400074: pSphere29
+    400076: pSphere3
+    400078: pSphere30
+    400080: pSphere4
+    400082: pSphere5
+    400084: pSphere6
+    400086: pSphere7
+    400088: pSphere8
+    400090: pSphere9
+    400092: pTorus1
+    400094: pTorus2
+    400096: pTorus3
+    400098: pTorus4
     400100: SolarSystemMap
     2300000: BB8AntenaBig
     2300002: bb8AntenaeSmall
@@ -189,45 +189,88 @@ ModelImporter:
     3300078: pTorus4
     4300000: bb8Head
     4300002: bb8Eye
-    4300004: bb8AntenaeSmall
-    4300006: BB8AntenaBig
-    4300008: bb8eye2
-    4300010: pTorus1
-    4300012: pTorus2
-    4300014: pTorus3
-    4300016: pTorus4
-    4300018: pSphere1
-    4300020: pSphere2
-    4300022: pSphere3
-    4300024: pSphere4
-    4300026: pSphere5
-    4300028: pSphere6
-    4300030: pSphere7
-    4300032: pSphere8
-    4300034: pSphere9
-    4300036: pSphere10
-    4300038: pSphere11
-    4300040: pSphere12
-    4300042: pSphere13
-    4300044: pSphere14
-    4300046: pSphere15
-    4300048: pSphere16
-    4300050: pSphere17
-    4300052: pSphere18
-    4300054: pSphere19
-    4300056: pSphere20
-    4300058: pSphere21
-    4300060: pSphere22
-    4300062: pSphere23
-    4300064: pSphere24
-    4300066: pSphere25
-    4300068: pSphere26
-    4300070: pSphere27
-    4300072: pSphere28
-    4300074: pSphere29
-    4300076: pSphere30
-    4300078: bb_BodyGeometry
-    7400000: Take 001
+    4300004: bb8eye2
+    4300006: bb8AntenaeSmall
+    4300008: BB8AntenaBig
+    4300010: bb_BodyGeometry
+    4300012: pTorus1
+    4300014: pTorus2
+    4300016: pTorus3
+    4300018: pTorus4
+    4300020: pSphere1
+    4300022: pSphere2
+    4300024: pSphere3
+    4300026: pSphere4
+    4300028: pSphere5
+    4300030: pSphere6
+    4300032: pSphere7
+    4300034: pSphere8
+    4300036: pSphere9
+    4300038: pSphere10
+    4300040: pSphere11
+    4300042: pSphere12
+    4300044: pSphere13
+    4300046: pSphere14
+    4300048: pSphere15
+    4300050: pSphere16
+    4300052: pSphere17
+    4300054: pSphere18
+    4300056: pSphere19
+    4300058: pSphere20
+    4300060: pSphere21
+    4300062: pSphere22
+    4300064: pSphere23
+    4300066: pSphere24
+    4300068: pSphere25
+    4300070: pSphere26
+    4300072: pSphere27
+    4300074: pSphere28
+    4300076: pSphere29
+    4300078: pSphere30
+    6400000: BB8AntenaBig
+    6400002: bb8AntenaeSmall
+    6400004: bb8Eye
+    6400006: bb8eye2
+    6400008: bb8Head
+    6400010: bb_BodyGeometry
+    6400012: pSphere1
+    6400014: pSphere10
+    6400016: pSphere11
+    6400018: pSphere12
+    6400020: pSphere13
+    6400022: pSphere14
+    6400024: pSphere15
+    6400026: pSphere16
+    6400028: pSphere17
+    6400030: pSphere18
+    6400032: pSphere19
+    6400034: pSphere2
+    6400036: pSphere20
+    6400038: pSphere21
+    6400040: pSphere22
+    6400042: pSphere23
+    6400044: pSphere24
+    6400046: pSphere25
+    6400048: pSphere26
+    6400050: pSphere27
+    6400052: pSphere28
+    6400054: pSphere29
+    6400056: pSphere3
+    6400058: pSphere30
+    6400060: pSphere4
+    6400062: pSphere5
+    6400064: pSphere6
+    6400066: pSphere7
+    6400068: pSphere8
+    6400070: pSphere9
+    6400072: pTorus1
+    6400074: pTorus2
+    6400076: pTorus3
+    6400078: pTorus4
+    7400000: BB8 Neutral
+    7400002: BB8Talk
+    7400004: BB8Walk
+    7400006: MapRotate
     9500000: //RootNode
   materials:
     importMaterials: 1
@@ -249,13 +292,311 @@ ModelImporter:
     animationScaleError: 0.5
     animationWrapMode: 0
     extraExposedTransformPaths: []
-    clipAnimations: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: BB8 Neutral
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: BB8GroupGeo
+        weight: 1
+      - path: BB8GroupGeo/BB8GeoGroup
+        weight: 1
+      - path: BB8GroupGeo/BB8GeoGroup/bb8BodyGroupControls
+        weight: 1
+      - path: BB8GroupGeo/BB8GeoGroup/bb8BodyGroupControls/rollZ
+        weight: 1
+      - path: BB8GroupGeo/BB8GeoGroup/bb8BodyGroupControls/rollZ/RollY
+        weight: 1
+      - path: BB8GroupGeo/BB8GeoGroup/bb8BodyGroupControls/rollZ/RollY/RollX
+        weight: 1
+      - path: BB8GroupGeo/BB8GeoGroup/bb8BodyGroupControls/rollZ/RollY/RollX/bb_BodyGeometry
+        weight: 1
+      - path: BB8GroupGeo/BB8GeoGroup/BB8HeadGroup
+        weight: 1
+      - path: BB8GroupGeo/BB8GeoGroup/BB8HeadGroup/BB8AntenaBig
+        weight: 1
+      - path: BB8GroupGeo/BB8GeoGroup/BB8HeadGroup/bb8AntenaeSmall
+        weight: 1
+      - path: BB8GroupGeo/BB8GeoGroup/BB8HeadGroup/bb8Eye
+        weight: 1
+      - path: BB8GroupGeo/BB8GeoGroup/BB8HeadGroup/bb8eye2
+        weight: 1
+      - path: BB8GroupGeo/BB8GeoGroup/BB8HeadGroup/bb8Head
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: BB8Talk
+      takeName: Take 001
+      firstFrame: 40
+      lastFrame: 90
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: BB8GroupGeo
+        weight: 1
+      - path: BB8GroupGeo/BB8GeoGroup
+        weight: 1
+      - path: BB8GroupGeo/BB8GeoGroup/bb8BodyGroupControls
+        weight: 1
+      - path: BB8GroupGeo/BB8GeoGroup/bb8BodyGroupControls/rollZ
+        weight: 1
+      - path: BB8GroupGeo/BB8GeoGroup/bb8BodyGroupControls/rollZ/RollY
+        weight: 1
+      - path: BB8GroupGeo/BB8GeoGroup/bb8BodyGroupControls/rollZ/RollY/RollX
+        weight: 1
+      - path: BB8GroupGeo/BB8GeoGroup/bb8BodyGroupControls/rollZ/RollY/RollX/bb_BodyGeometry
+        weight: 1
+      - path: BB8GroupGeo/BB8GeoGroup/BB8HeadGroup
+        weight: 1
+      - path: BB8GroupGeo/BB8GeoGroup/BB8HeadGroup/BB8AntenaBig
+        weight: 1
+      - path: BB8GroupGeo/BB8GeoGroup/BB8HeadGroup/bb8AntenaeSmall
+        weight: 1
+      - path: BB8GroupGeo/BB8GeoGroup/BB8HeadGroup/bb8Eye
+        weight: 1
+      - path: BB8GroupGeo/BB8GeoGroup/BB8HeadGroup/bb8eye2
+        weight: 1
+      - path: BB8GroupGeo/BB8GeoGroup/BB8HeadGroup/bb8Head
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: BB8Walk
+      takeName: Take 001
+      firstFrame: 100
+      lastFrame: 250
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: BB8GroupGeo
+        weight: 1
+      - path: BB8GroupGeo/BB8GeoGroup
+        weight: 1
+      - path: BB8GroupGeo/BB8GeoGroup/bb8BodyGroupControls
+        weight: 1
+      - path: BB8GroupGeo/BB8GeoGroup/bb8BodyGroupControls/rollZ
+        weight: 1
+      - path: BB8GroupGeo/BB8GeoGroup/bb8BodyGroupControls/rollZ/RollY
+        weight: 1
+      - path: BB8GroupGeo/BB8GeoGroup/bb8BodyGroupControls/rollZ/RollY/RollX
+        weight: 1
+      - path: BB8GroupGeo/BB8GeoGroup/bb8BodyGroupControls/rollZ/RollY/RollX/bb_BodyGeometry
+        weight: 1
+      - path: BB8GroupGeo/BB8GeoGroup/BB8HeadGroup
+        weight: 1
+      - path: BB8GroupGeo/BB8GeoGroup/BB8HeadGroup/BB8AntenaBig
+        weight: 1
+      - path: BB8GroupGeo/BB8GeoGroup/BB8HeadGroup/bb8AntenaeSmall
+        weight: 1
+      - path: BB8GroupGeo/BB8GeoGroup/BB8HeadGroup/bb8Eye
+        weight: 1
+      - path: BB8GroupGeo/BB8GeoGroup/BB8HeadGroup/bb8eye2
+        weight: 1
+      - path: BB8GroupGeo/BB8GeoGroup/BB8HeadGroup/bb8Head
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: MapRotate
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 200
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: BB8GroupGeo
+        weight: 1
+      - path: BB8GroupGeo/BB8GeoGroup
+        weight: 1
+      - path: BB8GroupGeo/BB8GeoGroup/bb8BodyGroupControls
+        weight: 1
+      - path: BB8GroupGeo/BB8GeoGroup/bb8BodyGroupControls/rollZ
+        weight: 1
+      - path: BB8GroupGeo/BB8GeoGroup/bb8BodyGroupControls/rollZ/RollY
+        weight: 1
+      - path: BB8GroupGeo/BB8GeoGroup/bb8BodyGroupControls/rollZ/RollY/RollX
+        weight: 1
+      - path: BB8GroupGeo/BB8GeoGroup/bb8BodyGroupControls/rollZ/RollY/RollX/bb_BodyGeometry
+        weight: 1
+      - path: BB8GroupGeo/BB8GeoGroup/BB8HeadGroup
+        weight: 1
+      - path: BB8GroupGeo/BB8GeoGroup/BB8HeadGroup/BB8AntenaBig
+        weight: 1
+      - path: BB8GroupGeo/BB8GeoGroup/BB8HeadGroup/bb8AntenaeSmall
+        weight: 1
+      - path: BB8GroupGeo/BB8GeoGroup/BB8HeadGroup/bb8Eye
+        weight: 1
+      - path: BB8GroupGeo/BB8GeoGroup/BB8HeadGroup/bb8Head
+        weight: 1
+      - path: BB8GroupGeo/BB8GeoGroup/BB8HeadGroup/EyeMapGroup
+        weight: 1
+      - path: BB8GroupGeo/BB8GeoGroup/BB8HeadGroup/EyeMapGroup/bb8eye2
+        weight: 1
+      - path: BB8GroupGeo/BB8GeoGroup/BB8HeadGroup/EyeMapGroup/GO_SolarSystemMap
+        weight: 1
+      - path: BB8GroupGeo/BB8GeoGroup/BB8HeadGroup/EyeMapGroup/GO_SolarSystemMap/SolarSystemMap
+        weight: 1
+      - path: BB8GroupGeo/BB8GeoGroup/BB8HeadGroup/EyeMapGroup/GO_SolarSystemMap/SolarSystemMap/pSphere1
+        weight: 1
+      - path: BB8GroupGeo/BB8GeoGroup/BB8HeadGroup/EyeMapGroup/GO_SolarSystemMap/SolarSystemMap/pSphere2
+        weight: 1
+      - path: BB8GroupGeo/BB8GeoGroup/BB8HeadGroup/EyeMapGroup/GO_SolarSystemMap/SolarSystemMap/pSphere3
+        weight: 1
+      - path: BB8GroupGeo/BB8GeoGroup/BB8HeadGroup/EyeMapGroup/GO_SolarSystemMap/SolarSystemMap/pSphere4
+        weight: 1
+      - path: BB8GroupGeo/BB8GeoGroup/BB8HeadGroup/EyeMapGroup/GO_SolarSystemMap/SolarSystemMap/pSphere5
+        weight: 1
+      - path: BB8GroupGeo/BB8GeoGroup/BB8HeadGroup/EyeMapGroup/GO_SolarSystemMap/SolarSystemMap/pSphere6
+        weight: 1
+      - path: BB8GroupGeo/BB8GeoGroup/BB8HeadGroup/EyeMapGroup/GO_SolarSystemMap/SolarSystemMap/pSphere7
+        weight: 1
+      - path: BB8GroupGeo/BB8GeoGroup/BB8HeadGroup/EyeMapGroup/GO_SolarSystemMap/SolarSystemMap/pSphere8
+        weight: 1
+      - path: BB8GroupGeo/BB8GeoGroup/BB8HeadGroup/EyeMapGroup/GO_SolarSystemMap/SolarSystemMap/pSphere9
+        weight: 1
+      - path: BB8GroupGeo/BB8GeoGroup/BB8HeadGroup/EyeMapGroup/GO_SolarSystemMap/SolarSystemMap/pSphere10
+        weight: 1
+      - path: BB8GroupGeo/BB8GeoGroup/BB8HeadGroup/EyeMapGroup/GO_SolarSystemMap/SolarSystemMap/pSphere11
+        weight: 1
+      - path: BB8GroupGeo/BB8GeoGroup/BB8HeadGroup/EyeMapGroup/GO_SolarSystemMap/SolarSystemMap/pSphere12
+        weight: 1
+      - path: BB8GroupGeo/BB8GeoGroup/BB8HeadGroup/EyeMapGroup/GO_SolarSystemMap/SolarSystemMap/pSphere13
+        weight: 1
+      - path: BB8GroupGeo/BB8GeoGroup/BB8HeadGroup/EyeMapGroup/GO_SolarSystemMap/SolarSystemMap/pSphere14
+        weight: 1
+      - path: BB8GroupGeo/BB8GeoGroup/BB8HeadGroup/EyeMapGroup/GO_SolarSystemMap/SolarSystemMap/pSphere15
+        weight: 1
+      - path: BB8GroupGeo/BB8GeoGroup/BB8HeadGroup/EyeMapGroup/GO_SolarSystemMap/SolarSystemMap/pSphere16
+        weight: 1
+      - path: BB8GroupGeo/BB8GeoGroup/BB8HeadGroup/EyeMapGroup/GO_SolarSystemMap/SolarSystemMap/pSphere17
+        weight: 1
+      - path: BB8GroupGeo/BB8GeoGroup/BB8HeadGroup/EyeMapGroup/GO_SolarSystemMap/SolarSystemMap/pSphere18
+        weight: 1
+      - path: BB8GroupGeo/BB8GeoGroup/BB8HeadGroup/EyeMapGroup/GO_SolarSystemMap/SolarSystemMap/pSphere19
+        weight: 1
+      - path: BB8GroupGeo/BB8GeoGroup/BB8HeadGroup/EyeMapGroup/GO_SolarSystemMap/SolarSystemMap/pSphere20
+        weight: 1
+      - path: BB8GroupGeo/BB8GeoGroup/BB8HeadGroup/EyeMapGroup/GO_SolarSystemMap/SolarSystemMap/pSphere21
+        weight: 1
+      - path: BB8GroupGeo/BB8GeoGroup/BB8HeadGroup/EyeMapGroup/GO_SolarSystemMap/SolarSystemMap/pSphere22
+        weight: 1
+      - path: BB8GroupGeo/BB8GeoGroup/BB8HeadGroup/EyeMapGroup/GO_SolarSystemMap/SolarSystemMap/pSphere23
+        weight: 1
+      - path: BB8GroupGeo/BB8GeoGroup/BB8HeadGroup/EyeMapGroup/GO_SolarSystemMap/SolarSystemMap/pSphere24
+        weight: 1
+      - path: BB8GroupGeo/BB8GeoGroup/BB8HeadGroup/EyeMapGroup/GO_SolarSystemMap/SolarSystemMap/pSphere25
+        weight: 1
+      - path: BB8GroupGeo/BB8GeoGroup/BB8HeadGroup/EyeMapGroup/GO_SolarSystemMap/SolarSystemMap/pSphere26
+        weight: 1
+      - path: BB8GroupGeo/BB8GeoGroup/BB8HeadGroup/EyeMapGroup/GO_SolarSystemMap/SolarSystemMap/pSphere27
+        weight: 1
+      - path: BB8GroupGeo/BB8GeoGroup/BB8HeadGroup/EyeMapGroup/GO_SolarSystemMap/SolarSystemMap/pSphere28
+        weight: 1
+      - path: BB8GroupGeo/BB8GeoGroup/BB8HeadGroup/EyeMapGroup/GO_SolarSystemMap/SolarSystemMap/pSphere29
+        weight: 1
+      - path: BB8GroupGeo/BB8GeoGroup/BB8HeadGroup/EyeMapGroup/GO_SolarSystemMap/SolarSystemMap/pSphere30
+        weight: 1
+      - path: BB8GroupGeo/BB8GeoGroup/BB8HeadGroup/EyeMapGroup/GO_SolarSystemMap/SolarSystemMap/pTorus1
+        weight: 1
+      - path: BB8GroupGeo/BB8GeoGroup/BB8HeadGroup/EyeMapGroup/GO_SolarSystemMap/SolarSystemMap/pTorus2
+        weight: 1
+      - path: BB8GroupGeo/BB8GeoGroup/BB8HeadGroup/EyeMapGroup/GO_SolarSystemMap/SolarSystemMap/pTorus3
+        weight: 1
+      - path: BB8GroupGeo/BB8GeoGroup/BB8HeadGroup/EyeMapGroup/GO_SolarSystemMap/SolarSystemMap/pTorus4
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
     isReadable: 1
   meshes:
     lODScreenPercentages: []
     globalScale: 1
     meshCompression: 0
-    addColliders: 0
+    addColliders: 1
     importBlendShapes: 1
     swapUVChannels: 0
     generateSecondaryUV: 0
